@@ -7,7 +7,9 @@
 			"files": [
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Levels/ProgrammingLevel.umap",
-				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Puzzles/lock/Puzzles/LockerPuzzle.uasset"
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Puzzles/lock/Puzzles/LockerPuzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Puzzles/lock/Puzzles/WirePuzzle.uasset"
 			]
 		}
 	]

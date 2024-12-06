@@ -1864,3 +1864,7 @@ FPackageName: Skipped package /Engine/BasicShapes/NoteCube has a valid, mounted,
 [2024.12.06-00.07.40:685][720]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
 [2024.12.06-00.07.40:686][720]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_18'.
 [2024.12.06-00.07.51:168][832]LogSlate: Window 'InspectItem' being destroyed
+[2024.12.06-00.11.44:038][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 722.075378
+[2024.12.06-00.11.45:037][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-00.11.45:037][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 722.742249, Update Interval: 304.667511
+[2024.12.06-00.12.31:131][764]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1

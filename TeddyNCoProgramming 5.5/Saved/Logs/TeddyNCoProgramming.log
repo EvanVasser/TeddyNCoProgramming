@@ -1776,3 +1776,167 @@ Make sure '/Game/Plugs/InspectItem/InspectItem.InspectItem_C' has been compiled 
 [2024.12.06-00.08.11:787][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2024.12.06-00.08.13:809][832]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
 [2024.12.06-00.08.13:809][832]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2024.12.06-00.10.09:197][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 621.260559
+[2024.12.06-00.10.10:196][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-00.10.10:196][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 621.926392, Update Interval: 310.301819
+[2024.12.06-00.12.16:684][986]LogProjectBrowser: Looking for projects...
+[2024.12.06-00.12.16:684][986]LogProjectBrowser: Found Engine Installation "5.4"(C:/Program Files/Epic Games/UE_5.4)
+[2024.12.06-00.12.16:684][986]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.4
+[2024.12.06-00.12.16:684][986]LogDesktopPlatform: Looking for directories to scan from : C:/Users/jarie/AppData/Local/UnrealEngine/5.4/Saved/Config/WindowsEditor
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Searching for previously created project directories...
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found directory: "C:/Users/jarie/Documents/Unreal Projects"
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/Additional Controls 5.1/AdditionalControls 5.3/AdditionalControls.uproject",LastOpenTime=2024.04.09-00.09.15)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/BasicGameTutorial-master/BasicGameTutorial-master/BasicGameDemo.uproject",LastOpenTime=2024.05.03-02.18.01)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/New folder/levelprototype/level.uproject",LastOpenTime=2024.05.04-02.39.25)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/Fairy/level.uproject",LastOpenTime=2024.05.04-23.26.08)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/MyProject3/MyProject3.uproject",LastOpenTime=2024.10.24-23.05.53)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/LowInteractivity/LowInteractivity.uproject",LastOpenTime=2024.10.24-23.06.27)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/DatingSimulator/DatingSimulator.uproject",LastOpenTime=2024.10.24-23.16.04)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/cgt425ThreeCLab/cgt425ThreeCLab 5.4/cgt425ThreeCLab.uproject",LastOpenTime=2024.11.01-15.03.13)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/Scaling-Engine/Scaling-Engine 5.3 5.4/ScalingEngine.uproject",LastOpenTime=2024.12.04-17.07.41)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/TeddyNCoProgramming.uproject",LastOpenTime=2024.12.05-19.04.49)" in recently opened files
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/DatingSimulator/DatingSimulator.uproject" in previously created project directory
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/LowInteractivity/LowInteractivity.uproject" in previously created project directory
+[2024.12.06-00.12.16:685][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/MyProject2/MyProject2.uproject" in previously created project directory
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/MyProject3/MyProject3.uproject" in previously created project directory
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/Test/Test.uproject" in previously created project directory
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera/ThreeCsCamera.uproject" in previously created project directory
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera1/ThreeCsCamera1.uproject" in previously created project directory
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2024.12.06-00.12.16:686][986]LogProjectBrowser: Found Engine Installation "5.3"(C:/Program Files/Epic Games/UE_5.3)
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.3
+[2024.12.06-00.12.16:686][986]LogDesktopPlatform: Looking for directories to scan from : C:/Users/jarie/AppData/Local/UnrealEngine/5.3/Saved/Config/WindowsEditor
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Searching for previously created project directories...
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found directory: "C:/Users/jarie/Documents/Unreal Projects"
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/Additional Controls 5.1/AdditionalControls 5.3/AdditionalControls.uproject",LastOpenTime=2024.04.09-00.09.15)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/BasicGameTutorial-master/BasicGameTutorial-master/BasicGameDemo.uproject",LastOpenTime=2024.05.03-02.18.01)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/New folder/levelprototype/level.uproject",LastOpenTime=2024.05.04-02.39.25)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/LevelPrototype/levelprototype/level.uproject",LastOpenTime=2024.09.03-16.31.01)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/MyProject/MyProject.uproject",LastOpenTime=2024.09.03-16.49.01)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/Fairy/level.uproject",LastOpenTime=2024.09.10-14.27.44)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/Fairy/EvanSave/level.uproject",LastOpenTime=2024.09.16-17.48.23)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera/ThreeCsCamera.uproject",LastOpenTime=2024.09.25-01.38.35)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera1/ThreeCsCamera1.uproject",LastOpenTime=2024.09.26-18.45.15)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/Scaling-Engine/Scaling-Engine 5.3/ScalingEngine.uproject",LastOpenTime=2024.10.10-23.43.21)" in recently opened files
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/DatingSimulator/DatingSimulator.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/LowInteractivity/LowInteractivity.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/MyProject2/MyProject2.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/MyProject3/MyProject3.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/Test/Test.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera/ThreeCsCamera.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera1/ThreeCsCamera1.uproject" in previously created project directory
+[2024.12.06-00.12.16:687][986]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2024.12.06-00.12.16:688][986]LogProjectBrowser: Found Engine Installation "5.5"(C:/Program Files/Epic Games/UE_5.5)
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.5
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Looking for directories to scan from : C:/Users/jarie/AppData/Local/UnrealEngine/5.5/Saved/Config/WindowsEditor
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Searching for previously created project directories...
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found directory: "C:/Users/jarie/Documents/Unreal Projects"
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/levelprototype-68f72e786a64e39877bd63371e7bdd570f89b7eb/level.uproject",LastOpenTime=2024.04.01-23.24.40)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/LevelPrototype/levelprototype/level.uproject",LastOpenTime=2024.04.02-01.37.54)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/levelprototype-628b35a1d6ce2afcb942195a87404aa8903da3f1/level.uproject",LastOpenTime=2024.04.02-03.55.53)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/levelprototype-cc54d1f71ff2951d51ae0dfd0242242a5d6f9a4e/levelprototype-cc54d1f71ff2951d51ae0dfd0242242a5d6f9a4e/level.uproject",LastOpenTime=2024.04.04-13.30.27)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/Additional Controls 5.1/AdditionalControls 5.3/AdditionalControls.uproject",LastOpenTime=2024.04.09-00.09.15)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Desktop/BasicGameTutorial-master/BasicGameTutorial-master/BasicGameDemo.uproject",LastOpenTime=2024.05.03-02.18.01)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/New folder/levelprototype/level.uproject",LastOpenTime=2024.05.04-02.39.25)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/GitHub/Fairy/level.uproject",LastOpenTime=2024.05.04-23.26.08)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/TeddyNCoProgramming.uproject",LastOpenTime=2024.12.05-23.54.01)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "(ProjectName="C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming 5.5/TeddyNCoProgramming.uproject",LastOpenTime=2024.12.05-23.59.48)" in recently opened files
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/DatingSimulator/DatingSimulator.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/LowInteractivity/LowInteractivity.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/MyProject2/MyProject2.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/MyProject3/MyProject3.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/Test/Test.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera/ThreeCsCamera.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Found project "C:/Users/jarie/Documents/Unreal Projects/ThreeCsCamera1/ThreeCsCamera1.uproject" in previously created project directory
+[2024.12.06-00.12.16:688][986]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2024.12.06-00.12.16:690][986]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2024.12.06-00.12.26:740][142]Cmd: CLOSE_SLATE_MAINFRAME
+[2024.12.06-00.12.26:767][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.12.06-00.12.26:801][142]LogStall: Shutdown...
+[2024.12.06-00.12.26:802][142]LogStall: Shutdown complete.
+[2024.12.06-00.12.26:833][142]LogSlate: Window 'Open Project' being destroyed
+[2024.12.06-00.12.26:845][142]LogSlate: Window 'TeddyNCoProgramming - Unreal Editor' being destroyed
+[2024.12.06-00.12.26:969][143]Cmd: QUIT_EDITOR
+[2024.12.06-00.12.26:970][143]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.06-00.12.26:980][144]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.06-00.12.26:981][144]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.06-00.12.26:981][144]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.06-00.12.26:997][144]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.26:997][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:018][144]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.06-00.12.27:027][144]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.06-00.12.27:040][144]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:040][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:045][144]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:045][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:050][144]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:050][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:056][144]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:056][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:060][144]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:060][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:065][144]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:065][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:069][144]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.12.27:069][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.12.27:080][144]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.06-00.12.27:082][144]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.06-00.12.27:082][144]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.06-00.12.27:082][144]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.06-00.12.27:086][144]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.06-00.12.27:086][144]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.06-00.12.27:086][144]LogAudio: Display: Audio Device unregistered from world 'ProgrammingLevel'.
+[2024.12.06-00.12.27:087][144]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.06-00.12.27:089][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.06-00.12.27:094][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.06-00.12.27:120][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.06-00.12.27:120][144]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.06-00.12.27:139][144]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.12.06-00.12.27:149][144]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.06-00.12.27:149][144]LogExit: Preparing to exit.
+[2024.12.06-00.12.27:233][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2024.12.06-00.12.27:242][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:243][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:245][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:246][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:246][144]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:246][144]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-00.12.27:590][144]LogEditorDataStorage: Deinitializing
+[2024.12.06-00.12.27:874][144]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.06-00.12.27:918][144]LogExit: Editor shut down
+[2024.12.06-00.12.27:921][144]LogExit: Transaction tracking system shut down
+[2024.12.06-00.12.28:335][144]LogExit: Object subsystem successfully closed.
+[2024.12.06-00.12.28:411][144]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.06-00.12.29:054][144]LogMemoryProfiler: Shutdown
+[2024.12.06-00.12.29:055][144]LogNetworkingProfiler: Shutdown
+[2024.12.06-00.12.29:055][144]LoadingProfiler: Shutdown
+[2024.12.06-00.12.29:056][144]LogTimingProfiler: Shutdown
+[2024.12.06-00.12.29:470][144]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.06-00.12.29:514][144]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.06-00.12.29:514][144]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF75D41FB-4186-F0E5-8854-519AFA978BD7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.0-37670630%2B%2B%2BUE5%2BRelease-5.5&UserID=db69ee0a41a674793e50838f99266ff1%7C6d51fac63650436ba645b7d0935b4fa4%7Cffe3a0fe-b74f-4e87-ad65-6bb8075f578b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.06-00.12.30:095][144]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.06-00.12.30:110][144]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.06-00.12.30:110][144]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.06-00.12.30:112][144]RenderDocPlugin: plugin has been unloaded.
+[2024.12.06-00.12.30:124][144]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.06-00.12.30:124][144]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.06-00.12.30:125][144]LogPakFile: Destroying PakPlatformFile
+[2024.12.06-00.12.30:135][144]LogD3D11RHI: Shutdown
+[2024.12.06-00.12.30:135][144]LogD3D11RHI: CleanupD3DDevice
+[2024.12.06-00.12.30:197][144]LogExit: Exiting.
+[2024.12.06-00.12.30:220][144]Log file closed, 12/05/24 19:12:30

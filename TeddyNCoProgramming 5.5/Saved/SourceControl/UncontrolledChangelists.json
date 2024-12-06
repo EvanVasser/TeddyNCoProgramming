@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/Levels/ProgrammingLevel.umap",
@@ -24,6 +25,24 @@
 				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/DataTables/DT_Inventory.uasset"
+=======
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/TeddyNCoProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Levels/ProgrammingLevel.umap",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Puzzles/lock/Puzzles/LockerPuzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Puzzles/lock/Puzzles/WirePuzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/BlueIDCard.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/Diffuse_Bake_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/Metallic_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/Normal_Bake_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/Roughness_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/tripo_mat_39ed4f72-eaa5-48d3-bb6d-5d85cc5d9ee5.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/InspectItem/InspectItem.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/BP_Door.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming/Content/Plugs/Assets/RedIDCARD.uasset"
+>>>>>>> Pantest
 			]
 		}
 	]

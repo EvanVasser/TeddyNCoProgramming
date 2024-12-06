@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset"
 =======
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
@@ -17,6 +18,30 @@
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/InspectItem1.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/BP_Inspectitem.uasset"
+>>>>>>> Test2
+=======
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Levels/ProgrammingLevel.umap",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/TutorialLevel/Doors/Narrow/BP_DoorTypeNarrow2.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/InspectItem.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Puzzles/lock/Puzzles/WirePuzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/BP_ComboLocker_Puzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerCombo1.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerCombo2.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerCombo3.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerDoor.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Puzzles/lock/Puzzles/LockerPuzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/Bear/Diffuse_Bake_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/Bear/Metallic_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/Bear/Normal_Bake_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/Bear/Roughness_jpg.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/Bear/tripo_convert_4b211f51-73c5-4069-8c77-750be78d1e5f.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/Bear/tripo_mat_4b211f51-73c5-4069-8c77-750be78d1e5f.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Assets/RedIDCARD.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Interiatbles/Music.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/TutorialLevel/Doors/Narrow/BP_DoorTypeNarrow.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/Interiatbles/Interactmessage.uasset"
 >>>>>>> Test2
 			]
 		}

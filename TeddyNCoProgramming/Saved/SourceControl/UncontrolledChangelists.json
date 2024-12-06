@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/Levels/ProgrammingLevel.umap",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/PlaceholderPistol/Placeholder_Pistol.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/Actors/Interactables/BP_TestPistolInteractible.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/InventorySystem/InventoryActor.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/InventorySystem/WI_PickupGridSlot.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/InventorySystem/WI_InventoryGridSlot.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/UI/WI_Stats.uasset",
+				"C:/Users/Evant/Documents/GitHub/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/InventorySystem/InventoryActor.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/InventorySystem/WI_InventoryGridSlot.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/Actors/Interactables/BP_InteractibleParent.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/EvanV/OneDrive/Desktop/TeddyNCoProgramming/TeddyNCoProgramming/Content/DataTables/DT_Inventory.uasset"
+			]
+		}
+	]
+}

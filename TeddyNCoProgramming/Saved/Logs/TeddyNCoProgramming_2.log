@@ -1577,3 +1577,231 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2024.12.06-00.12.42:369][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Props/Materials/M_Statue.uasset".
 [2024.12.06-00.12.42:369][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Props/Materials/M_StatueGlass.uasset".
 [2024.12.06-00.12.42:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2024.12.06-00.13.11:788][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-00.13.11:788][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StarterContent/Blueprints/Blueprint_CeilingLight] ([2] browsable assets)...
+[2024.12.06-00.13.11:789][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2024.12.06-00.13.11:789][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2024.12.06-00.13.12:036][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight]
+[2024.12.06-00.13.12:036][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Blueprint_CeilingLight]
+[2024.12.06-00.13.12:046][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Blueprint_CeilingLight
+[2024.12.06-00.13.12:047][  0]LogSavePackage: Moving '../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Saved/Blueprint_CeilingLight0556D5524337DBDD4BBF488BA940BF00.tmp' to '../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2024.12.06-00.13.12:048][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.918 ms
+[2024.12.06-00.13.12:048][  0]LogFeaturePack: Inserted 1 feature packs
+[2024.12.06-00.13.12:048][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Levels/ProgrammingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.12.06-00.13.12:050][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-00.13.12:051][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.13.12:069][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-00.13.12:072][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.06-00.13.12:077][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) - Skipping non mounted imported package /Game/Assets/Locker/Combo1 (0x2542B44F131812D9)
+[2024.12.06-00.13.12:078][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) - Skipping non mounted imported package /Game/Assets/Locker/Combo2 (0x917E77FC3F1F486D)
+[2024.12.06-00.13.12:078][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) - Skipping non mounted imported package /Game/Assets/Locker/Combo3 (0xAFA7EE30BB0943BF)
+[2024.12.06-00.13.12:078][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) - Skipping non mounted imported package /Game/Assets/plug1/BearPlug10-4-2024_pCube6 (0x264B7AEB297214F5)
+[2024.12.06-00.13.12:078][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) - Skipping non mounted imported package /Game/Assets/plug1/BearPlug10-4-2024_polySurface1 (0x21B9658FA5638A61)
+[2024.12.06-00.13.12:078][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) /Game/Levels/ProgrammingLevel (0x115B627D27F1A6A0) - Skipping non mounted imported package /Game/Assets/plug1/BearPlug10-4-2024_polySurface2 (0xD9A563C8F7D066B)
+[2024.12.06-00.13.12:081][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/GrandfatherClock/BP_GC_GlassDoor1 (0x7AB31884EDF65E9A) /Game/Assets/GrandfatherClock/BP_GC_GlassDoor1 (0x7AB31884EDF65E9A) - Skipping non mounted imported package /Engine/BasicShapes/NoteCube (0x5E811C035E64C93B)
+[2024.12.06-00.13.12:082][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/GrandfatherClock/BP_GC_GlassDoor2 (0x1A84ABCFAF183B9D) /Game/Assets/GrandfatherClock/BP_GC_GlassDoor2 (0x1A84ABCFAF183B9D) - Skipping non mounted imported package /Engine/BasicShapes/NoteCube (0x5E811C035E64C93B)
+[2024.12.06-00.13.12:083][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/GrandfatherClock/Sub_Blueprints/BP_GC_GlassPiece (0x5B6A47D96C924991) /Game/Assets/GrandfatherClock/Sub_Blueprints/BP_GC_GlassPiece (0x5B6A47D96C924991) - Skipping non mounted imported package /Engine/BasicShapes/NoteCube (0x5E811C035E64C93B)
+[2024.12.06-00.13.12:086][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Assets/GrandfatherClock/Sub_Blueprints/BP_GrandfatherClock (0x6ACAABEA11C19006) /Game/Assets/GrandfatherClock/Sub_Blueprints/BP_GrandfatherClock (0x6ACAABEA11C19006) - Skipping non mounted imported package /Engine/BasicShapes/NoteCube (0x5E811C035E64C93B)
+[2024.12.06-00.13.12:212][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/WI_Objectives.WI_Objectives_C:ExecuteUbergraph_WI_Objectives:CallFunc_GetDataTableRowFromName_OutRow'. Unknown structure.
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Error: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Search for Inventory ID Amount . Please refresh node or break links to remove pin.
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Error: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Search for Inventory ID Amount . Please refresh node or break links to remove pin.
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Error: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] In use pin  Target  no longer exists on node  Search for Inventory ID Amount . Please refresh node or break links to remove pin.
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Warning: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] Input pin  Searching ID  specifying non-default value no longer exists on node  Search for Inventory ID Amount . Please refresh node or reset pin to default value to remove pin.
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Error: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] In use pin  Amount?  no longer exists on node  Search for Inventory ID Amount . Please refresh node or break links to remove pin.
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Error: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] Could not find a function named "Search_For_Inventory_ID_Amount" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Search for Inventory ID Amount
+[2024.12.06-00.13.12:351][  0]LogBlueprint: Warning: [AssetLog] C:\Users\jarie\Documents\Unreal Projects\TeddyNCoProgramming\TeddyNCoProgramming\Content\UI\WI_Stats.uasset: [Compiler] Could not find a variable named "LightBullets" in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'.
+Make sure '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C' has been compiled for  Get LightBullets
+[2024.12.06-00.13.12:722][  0]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2024.12.06-00.13.12:722][  0]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2024.12.06-00.13.12:722][  0]LogPhysics: Warning: TConvex Name:BodySetup /Game/Assets/VendingMachineAssets/Vending_Machine_FBX_9-13-24_Main_Display3.Vending_Machine_FBX_9-13-24_Main_Display3:BodySetup_0, Element [0] has no Geometry
+[2024.12.06-00.13.12:722][  0]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2024.12.06-00.13.12:722][  0]LogChaos: Warning: Convex hull generation produced zero convex particles, collision will fail for this primitive.
+[2024.12.06-00.13.12:722][  0]LogPhysics: Warning: TConvex Name:BodySetup /Game/Assets/VendingMachineAssets/Vending_Machine_FBX_9-13-24_Main_Display4.Vending_Machine_FBX_9-13-24_Main_Display4:BodySetup_0, Element [0] has no Geometry
+[2024.12.06-00.13.12:812][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ProgrammingLevel'.
+[2024.12.06-00.13.12:812][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world ProgrammingLevel
+[2024.12.06-00.13.12:813][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/Levels/ProgrammingLevel.ProgrammingLevel'.
+[2024.12.06-00.13.12:844][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-00.13.12:877][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.06-00.13.12:878][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-00.13.12:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2024.12.06-00.13.12:887][  0]LogUnrealEdMisc: Total Editor Startup Time, took 45.481
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: ================================================
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Total job queries 6, among them cache hits 1 (16.67%), DDC hits 2 (33.33%), Duplicates 1 (16.67%)
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 3 distinct outputs (75.00%)
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: RAM used: 58.23 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 0.83 s
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 0.84
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Shader code size: average 4.73 KiB, min 4.73 KiB, max 4.73 KiB
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.84 s
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.12.06-00.13.12:889][  0]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Average processing rate: 1.19 jobs/sec
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Total thread time: 0.405 s
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Total thread preprocess time: 0.084 s
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Percentage time preprocessing: 20.82%
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Effective parallelization: 0.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: === Material stats ===
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Materials Translated:    183
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Material Translation Only: 0.06 s (43%)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: Material Cache Hits: 24 (13%)
+[2024.12.06-00.13.12:890][  0]LogShaderCompilers: Display: ================================================
+[2024.12.06-00.13.13:025][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.06-00.13.13:093][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-00.13.13:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-00.13.13:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-00.13.13:202][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.06-00.13.13:247][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:247][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:247][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:248][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:249][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:249][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:250][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:250][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:252][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:252][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:253][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:253][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:254][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:254][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:255][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:255][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:256][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:256][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:257][  0]LogPakFile: Initializing PakPlatformFile
+[2024.12.06-00.13.13:257][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.12.06-00.13.13:415][  0]LogSlate: Took 0.000620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.06-00.13.13:416][  0]LogSlate: Took 0.000740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.06-00.13.13:699][  0]LogStall: Startup...
+[2024.12.06-00.13.13:705][  0]LogStall: Startup complete.
+[2024.12.06-00.13.13:758][  0]LogLoad: (Engine Initialization) Total time: 46.35 seconds
+[2024.12.06-00.13.14:198][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.06-00.13.14:198][  0]LogContentValidation: Enabled validators:
+[2024.12.06-00.13.14:198][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.06-00.13.14:198][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.06-00.13.14:198][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.06-00.13.14:198][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.06-00.13.14:198][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.06-00.13.14:198][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.06-00.13.14:200][  0]AssetCheck: /Game/StarterContent/Blueprints/Blueprint_CeilingLight Validating asset
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: ================================================
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Total job queries 140, among them cache hits 7 (5.00%), DDC hits 124 (88.57%), Duplicates 7 (5.00%)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Tracking 126 distinct input hashes that result in 121 distinct outputs (96.03%)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: RAM used: 106.76 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.13 s
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 1.14
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Shader code size: average 5.785 KiB, min 4.73 KiB, max 6.84 KiB
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.15 s
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Average processing rate: 1.74 jobs/sec
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Total thread time: 1.054 s
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Total thread preprocess time: 4.545 s
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Percentage time preprocessing: 431.19%
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 61.58% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 38.42% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: === Material stats ===
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Materials Translated:    184
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Material Translation Only: 0.06 s (43%)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: Material Cache Hits: 25 (14%)
+[2024.12.06-00.13.14:216][  0]LogShaderCompilers: Display: ================================================
+[2024.12.06-00.13.14:273][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.12.06-00.13.14:273][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2024.12.06-00.13.14:323][  0]LogAutomationController: Ignoring very large delta of 18412955.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.06-00.13.14:323][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-00.13.14:325][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2024.12.06-00.13.14:325][  0]LogFab: Display: Logging in using exchange code
+[2024.12.06-00.13.14:325][  0]LogFab: Display: Reading exchange code from commandline
+[2024.12.06-00.13.14:325][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2024.12.06-00.13.14:326][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2024.12.06-00.13.14:391][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.12.06-00.13.14:400][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 74.569 ms
+[2024.12.06-00.13.14:401][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/Locker/Combo1 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:401][  0]LoadErrors: Warning: While trying to load package /Game/Levels/ProgrammingLevel, a dependent package /Game/Assets/Locker/Combo1 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Locker/Combo1 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/Locker/Combo1.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:401][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/Locker/Combo2 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:401][  0]LoadErrors: Warning: While trying to load package /Game/Levels/ProgrammingLevel, a dependent package /Game/Assets/Locker/Combo2 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Locker/Combo2 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/Locker/Combo2.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:401][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/Locker/Combo3 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:401][  0]LoadErrors: Warning: While trying to load package /Game/Levels/ProgrammingLevel, a dependent package /Game/Assets/Locker/Combo3 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/Locker/Combo3 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/Locker/Combo3.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:402][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/plug1/BearPlug10-4-2024_pCube6 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:402][  0]LoadErrors: Warning: While trying to load package /Game/Levels/ProgrammingLevel, a dependent package /Game/Assets/plug1/BearPlug10-4-2024_pCube6 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/plug1/BearPlug10-4-2024_pCube6 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/plug1/BearPlug10-4-2024_pCube6.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:402][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/plug1/BearPlug10-4-2024_polySurface1 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:402][  0]LoadErrors: Warning: While trying to load package /Game/Levels/ProgrammingLevel, a dependent package /Game/Assets/plug1/BearPlug10-4-2024_polySurface1 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/plug1/BearPlug10-4-2024_polySurface1 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/plug1/BearPlug10-4-2024_polySurface1.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:402][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/plug1/BearPlug10-4-2024_polySurface2 which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:402][  0]LoadErrors: Warning: While trying to load package /Game/Levels/ProgrammingLevel, a dependent package /Game/Assets/plug1/BearPlug10-4-2024_polySurface2 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Assets/plug1/BearPlug10-4-2024_polySurface2 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/jarie/Documents/Unreal Projects/TeddyNCoProgramming/TeddyNCoProgramming/Content/Assets/plug1/BearPlug10-4-2024_polySurface2.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:402][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../Engine/Content/BasicShapes/NoteCube which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:402][  0]LoadErrors: Warning: While trying to load package /Game/Assets/GrandfatherClock/BP_GC_GlassDoor1, a dependent package /Engine/BasicShapes/NoteCube was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Engine/BasicShapes/NoteCube has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/NoteCube.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:402][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../Engine/Content/BasicShapes/NoteCube which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:402][  0]LoadErrors: Warning: While trying to load package /Game/Assets/GrandfatherClock/BP_GC_GlassDoor2, a dependent package /Engine/BasicShapes/NoteCube was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Engine/BasicShapes/NoteCube has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/NoteCube.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:402][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../Engine/Content/BasicShapes/NoteCube which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:402][  0]LoadErrors: Warning: While trying to load package /Game/Assets/GrandfatherClock/Sub_Blueprints/BP_GC_GlassPiece, a dependent package /Engine/BasicShapes/NoteCube was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Engine/BasicShapes/NoteCube has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/NoteCube.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:403][  0]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../Engine/Content/BasicShapes/NoteCube which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2024.12.06-00.13.14:403][  0]LoadErrors: Warning: While trying to load package /Game/Assets/GrandfatherClock/Sub_Blueprints/BP_GrandfatherClock, a dependent package /Engine/BasicShapes/NoteCube was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Engine/BasicShapes/NoteCube has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/NoteCube.uasset'. Perhaps it has been deleted or was not synced?
+
+[2024.12.06-00.13.14:516][  1]LogAssetRegistry: AssetRegistryGather time 0.2554s: AssetDataDiscovery 0.1140s, AssetDataGather 0.0708s, StoreResults 0.0706s. Wall time 41.5890s.
+	NumCachedDirectories 0. NumUncachedDirectories 1769. NumCachedFiles 8636. NumUncachedFiles 512.
+	BackgroundTickInterruptions 0.
+[2024.12.06-00.13.14:552][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.12.06-00.13.14:552][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2024.12.06-00.13.14:663][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2024.12.06-00.13.14:738][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 37.823391
+[2024.12.06-00.13.14:742][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2024.12.06-00.13.14:744][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37.899025
+[2024.12.06-00.13.15:490][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2024.12.06-00.13.15:926][  9]LogSourceControl: Uncontrolled asset enumeration finished in 1.374171 seconds (Found 0 uncontrolled assets)
+[2024.12.06-00.13.16:072][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 38.904785
+[2024.12.06-00.13.16:073][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 555705138
+[2024.12.06-00.13.16:073][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38.904785, Update Interval: 350.679657

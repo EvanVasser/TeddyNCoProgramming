@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset"
+=======
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/InspectItem.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -14,6 +17,7 @@
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/InspectItem1.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/BP_Inspectitem.uasset"
+>>>>>>> Test2
 			]
 		}
 	]

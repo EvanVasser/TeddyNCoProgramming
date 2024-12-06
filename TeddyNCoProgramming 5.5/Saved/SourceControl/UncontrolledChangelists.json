@@ -10,7 +10,13 @@
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/TutorialLevel/Doors/Narrow/BP_DoorTypeNarrow2.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Plugs/InspectItem/InspectItem.uasset",
-				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Puzzles/lock/Puzzles/WirePuzzle.uasset"
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Puzzles/lock/Puzzles/WirePuzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/BP_ComboLocker_Puzzle.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerCombo1.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerCombo2.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerCombo3.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Assets/Locker/SubBlueprints/BP_LockerDoor.uasset",
+				"D:/ddd/Level/TeddyNCoProgramming/TeddyNCoProgramming 5.5/Content/Puzzles/lock/Puzzles/LockerPuzzle.uasset"
 			]
 		}
 	]
